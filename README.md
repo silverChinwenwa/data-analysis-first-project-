@@ -15,7 +15,7 @@ Data ingestion, analysis, cleaning, visualization and exploration.
 **Files**
 - netflix_titles.csv → raw data
 - netflix_titles_cleaned_dataset.csv → cleaned data
-- netflix_titles.pdf → final report
+- netflix.ipynb → final report
 
 **Key Insights**
 - Majority of entries fall into dominant categories
